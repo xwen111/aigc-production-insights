@@ -1,0 +1,132 @@
+[
+  {
+    "id": "01-aesthetic",
+    "title": "记忆中的夏天：风格测试与美学确定",
+    "file": "assets/01-aesthetic.png",
+    "captured_at": "2026-11-01 16:21:29",
+    "source": "用户在本次讨论中提供的实测截图",
+    "source_filename": "截屏2026-11-01 16.21.29.png",
+    "kind": "screenshot",
+    "note": "截图中的视频缩略图不是可播放视频；不据此断言动作或声音质量。"
+  },
+  {
+    "id": "02-characters",
+    "title": "人物特写探索与白底多视角定型",
+    "file": "assets/02-characters.png",
+    "captured_at": "2026-11-01 16:26:52",
+    "source": "用户在本次讨论中提供的实测截图",
+    "source_filename": "截屏2026-11-01 16.26.52.png",
+    "kind": "screenshot",
+    "note": "截图中的视频缩略图不是可播放视频；不据此断言动作或声音质量。"
+  },
+  {
+    "id": "03-overlap",
+    "title": "多参考输入、重叠剧情与纵向多次生成",
+    "file": "assets/03-overlap.png",
+    "captured_at": "2026-11-01 16:30:30",
+    "source": "用户在本次讨论中提供的实测截图",
+    "source_filename": "截屏2026-11-01 16.30.30.png",
+    "kind": "screenshot",
+    "note": "截图中的视频缩略图不是可播放视频；不据此断言动作或声音质量。"
+  },
+  {
+    "id": "04-tape",
+    "title": "卷尺数字：视频抽帧后的精确修改",
+    "file": "assets/04-tape.png",
+    "captured_at": "2026-11-01 16:38:01",
+    "source": "用户在本次讨论中提供的实测截图",
+    "source_filename": "截屏2026-11-01 16.38.01.png",
+    "kind": "screenshot",
+    "note": "截图中的视频缩略图不是可播放视频；不据此断言动作或声音质量。"
+  },
+  {
+    "id": "05-notebook",
+    "title": "浣熊笔记：自由书写改为明确文字与公式",
+    "file": "assets/05-notebook.png",
+    "captured_at": "2026-11-01 16:38:36",
+    "source": "用户在本次讨论中提供的实测截图",
+    "source_filename": "截屏2026-11-01 16.38.36.png",
+    "kind": "screenshot",
+    "note": "截图中的视频缩略图不是可播放视频；不据此断言动作或声音质量。"
+  },
+  {
+    "id": "06-owl",
+    "title": "演播厅全景与猫头鹰近景",
+    "file": "assets/06-owl.png",
+    "captured_at": "2026-11-01 16:41:57",
+    "source": "用户在本次讨论中提供的实测截图",
+    "source_filename": "截屏2026-11-01 16.41.57.png",
+    "kind": "screenshot",
+    "note": "截图中的视频缩略图不是可播放视频；不据此断言动作或声音质量。"
+  },
+  {
+    "id": "07-brand",
+    "title": "滑板、服装品牌露出：一次性画面",
+    "file": "assets/07-brand.png",
+    "captured_at": "2026-11-01 16:47:55",
+    "source": "用户在本次讨论中提供的实测截图",
+    "source_filename": "截屏2026-11-01 16.47.55.png",
+    "kind": "screenshot",
+    "note": "截图中的视频缩略图不是可播放视频；不据此断言动作或声音质量。"
+  },
+  {
+    "id": "08-tennis",
+    "title": "蒙太奇参考与网球连续动作",
+    "file": "assets/08-tennis.png",
+    "captured_at": "2026-11-01 16:49:59",
+    "source": "用户在本次讨论中提供的实测截图",
+    "source_filename": "截屏2026-11-01 16.49.59.png",
+    "kind": "screenshot",
+    "note": "截图中的视频缩略图不是可播放视频；不据此断言动作或声音质量。"
+  },
+  {
+    "id": "09-handshake",
+    "title": "握手到拍背：同一身体的动作承接",
+    "file": "assets/09-handshake.png",
+    "captured_at": "2026-11-01 16:51:59",
+    "source": "用户在本次讨论中提供的实测截图",
+    "source_filename": "截屏2026-11-01 16.51.59.png",
+    "kind": "screenshot",
+    "note": "截图中的视频缩略图不是可播放视频；不据此断言动作或声音质量。"
+  },
+  {
+    "id": "10-clocks",
+    "title": "钟表店整体氛围与独立时钟参考",
+    "file": "assets/10-clocks.png",
+    "captured_at": "2026-11-01 16:54:40",
+    "source": "用户在本次讨论中提供的实测截图",
+    "source_filename": "截屏2026-11-01 16.54.40.png",
+    "kind": "screenshot",
+    "note": "截图中的视频缩略图不是可播放视频；不据此断言动作或声音质量。"
+  },
+  {
+    "id": "11-emergent",
+    "title": "从已生成画面提取手表、帆布袋",
+    "file": "assets/11-emergent.png",
+    "captured_at": "2026-11-01 16:56:31",
+    "source": "用户在本次讨论中提供的实测截图",
+    "source_filename": "截屏2026-11-01 16.56.31.png",
+    "kind": "screenshot",
+    "note": "截图中的视频缩略图不是可播放视频；不据此断言动作或声音质量。"
+  },
+  {
+    "id": "12-entities",
+    "title": "人物、狗、狗牌、手机、街区的实体参考集合",
+    "file": "assets/12-entities.png",
+    "captured_at": "2026-11-01 17:01:30",
+    "source": "用户在本次讨论中提供的实测截图",
+    "source_filename": "截屏2026-11-01 17.01.30.png",
+    "kind": "screenshot",
+    "note": "截图中的视频缩略图不是可播放视频；不据此断言动作或声音质量。"
+  },
+  {
+    "id": "13-takes",
+    "title": "同一段遛狗剧情的多个视频候选",
+    "file": "assets/13-takes.png",
+    "captured_at": "2026-11-01 17:03:17",
+    "source": "用户在本次讨论中提供的实测截图",
+    "source_filename": "截屏2026-11-01 17.03.17.png",
+    "kind": "screenshot",
+    "note": "截图中的视频缩略图不是可播放视频；不据此断言动作或声音质量。"
+  }
+]
