@@ -1,0 +1,255 @@
+[
+  {
+    "file": "assets/reading/phone-states.webp",
+    "source": "assets/12-entities.png",
+    "crop_pixels": [
+      850,
+      925,
+      1370,
+      1310
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/takes-pair.webp",
+    "source": "assets/13-takes.png",
+    "crop_pixels": [
+      113,
+      33,
+      697,
+      347
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/summer-top.webp",
+    "source": "assets/01-aesthetic.png",
+    "crop_pixels": [
+      665,
+      242,
+      1152,
+      531
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/summer-bottom.webp",
+    "source": "assets/01-aesthetic.png",
+    "crop_pixels": [
+      674,
+      940,
+      1161,
+      1227
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/character-faces.webp",
+    "source": "assets/02-characters.png",
+    "crop_pixels": [
+      250,
+      105,
+      1335,
+      365
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/character-sheets.webp",
+    "source": "assets/02-characters.png",
+    "crop_pixels": [
+      785,
+      575,
+      1595,
+      1010
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/entities.webp",
+    "source": "assets/12-entities.png",
+    "crop_pixels": [
+      60,
+      70,
+      1365,
+      1355
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/brand.webp",
+    "source": "assets/07-brand.png",
+    "crop_pixels": [
+      15,
+      176,
+      1597,
+      735
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/owl-wide.webp",
+    "source": "assets/06-owl.png",
+    "crop_pixels": [
+      48,
+      1012,
+      551,
+      1295
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/owl-close.webp",
+    "source": "assets/06-owl.png",
+    "crop_pixels": [
+      1215,
+      95,
+      1717,
+      378
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/tennis-player.webp",
+    "source": "assets/08-tennis.png",
+    "crop_pixels": [
+      452,
+      529,
+      667,
+      891
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/tennis-ball.webp",
+    "source": "assets/08-tennis.png",
+    "crop_pixels": [
+      778,
+      520,
+      991,
+      904
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/handshake.webp",
+    "source": "assets/09-handshake.png",
+    "crop_pixels": [
+      551,
+      113,
+      855,
+      660
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/overlap.webp",
+    "source": "assets/03-overlap.png",
+    "crop_pixels": [
+      1370,
+      93,
+      2115,
+      1185
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/takes.webp",
+    "source": "assets/13-takes.png",
+    "crop_pixels": [
+      113,
+      33,
+      1505,
+      347
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/tape-before.webp",
+    "source": "assets/04-tape.png",
+    "crop_pixels": [
+      68,
+      807,
+      827,
+      1234
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/tape-after.webp",
+    "source": "assets/04-tape.png",
+    "crop_pixels": [
+      68,
+      112,
+      827,
+      539
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/notebook-before.webp",
+    "source": "assets/05-notebook.png",
+    "crop_pixels": [
+      564,
+      478,
+      1009,
+      729
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/notebook-after.webp",
+    "source": "assets/05-notebook.png",
+    "crop_pixels": [
+      46,
+      70,
+      491,
+      322
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/clocks-room.webp",
+    "source": "assets/10-clocks.png",
+    "crop_pixels": [
+      89,
+      45,
+      719,
+      402
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/clocks-detail.webp",
+    "source": "assets/10-clocks.png",
+    "crop_pixels": [
+      1092,
+      946,
+      1721,
+      1303
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/bag-frame.webp",
+    "source": "assets/11-emergent.png",
+    "crop_pixels": [
+      51,
+      536,
+      380,
+      709
+    ],
+    "operation": "crop_only"
+  },
+  {
+    "file": "assets/reading/bag-reference.webp",
+    "source": "assets/11-emergent.png",
+    "crop_pixels": [
+      545,
+      565,
+      779,
+      737
+    ],
+    "operation": "crop_only"
+  }
+]
